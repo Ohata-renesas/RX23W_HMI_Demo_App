@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4e520363dfb29d4ee38e7f4d184fb87d",
+    "revision": "9f9a78186976706635c13165c52d80e0",
     "url": "/rx23w_hmi_demo_app/index.html"
   },
   {
-    "revision": "c8413cdea4959ef5b3c3",
+    "revision": "17a004a7865980cb1e17",
     "url": "/rx23w_hmi_demo_app/static/css/main.5ecd60fb.chunk.css"
   },
   {
-    "revision": "e3b03fac4d22a0c15d7f",
-    "url": "/rx23w_hmi_demo_app/static/js/2.86d81fdd.chunk.js"
+    "revision": "361ab7a950fc47aff09b",
+    "url": "/rx23w_hmi_demo_app/static/js/2.dbb7c2b2.chunk.js"
   },
   {
     "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/rx23w_hmi_demo_app/static/js/2.86d81fdd.chunk.js.LICENSE.txt"
+    "url": "/rx23w_hmi_demo_app/static/js/2.dbb7c2b2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c8413cdea4959ef5b3c3",
-    "url": "/rx23w_hmi_demo_app/static/js/main.1b387a92.chunk.js"
+    "revision": "17a004a7865980cb1e17",
+    "url": "/rx23w_hmi_demo_app/static/js/main.94b59c0c.chunk.js"
   },
   {
     "revision": "17b4835a88e3548bd877",

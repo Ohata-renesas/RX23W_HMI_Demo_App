@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/rx23w_hmi_demo_app/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/rx23w_hmi_demo_app/static/js/main.1b387a92.chunk.js",
-    "main.js.map": "/rx23w_hmi_demo_app/static/js/main.1b387a92.chunk.js.map",
+    "main.js": "/rx23w_hmi_demo_app/static/js/main.94b59c0c.chunk.js",
+    "main.js.map": "/rx23w_hmi_demo_app/static/js/main.94b59c0c.chunk.js.map",
     "runtime-main.js": "/rx23w_hmi_demo_app/static/js/runtime-main.2263d826.js",
     "runtime-main.js.map": "/rx23w_hmi_demo_app/static/js/runtime-main.2263d826.js.map",
-    "static/js/2.86d81fdd.chunk.js": "/rx23w_hmi_demo_app/static/js/2.86d81fdd.chunk.js",
-    "static/js/2.86d81fdd.chunk.js.map": "/rx23w_hmi_demo_app/static/js/2.86d81fdd.chunk.js.map",
+    "static/js/2.dbb7c2b2.chunk.js": "/rx23w_hmi_demo_app/static/js/2.dbb7c2b2.chunk.js",
+    "static/js/2.dbb7c2b2.chunk.js.map": "/rx23w_hmi_demo_app/static/js/2.dbb7c2b2.chunk.js.map",
     "index.html": "/rx23w_hmi_demo_app/index.html",
-    "precache-manifest.60ce4996a18fe4947ac638431474144a.js": "/rx23w_hmi_demo_app/precache-manifest.60ce4996a18fe4947ac638431474144a.js",
+    "precache-manifest.26180c1332a76f42d208fd41d81621a9.js": "/rx23w_hmi_demo_app/precache-manifest.26180c1332a76f42d208fd41d81621a9.js",
     "service-worker.js": "/rx23w_hmi_demo_app/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/rx23w_hmi_demo_app/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.86d81fdd.chunk.js.LICENSE.txt": "/rx23w_hmi_demo_app/static/js/2.86d81fdd.chunk.js.LICENSE.txt"
+    "static/js/2.dbb7c2b2.chunk.js.LICENSE.txt": "/rx23w_hmi_demo_app/static/js/2.dbb7c2b2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2263d826.js",
-    "static/js/2.86d81fdd.chunk.js",
+    "static/js/2.dbb7c2b2.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.1b387a92.chunk.js"
+    "static/js/main.94b59c0c.chunk.js"
   ]
 }
