@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/rx23w_hmi_demo_app/precache-manifest.bb115ed5c4e2ed023e27214fa145a755.js"
+  "/rx23w_hmi_demo_app/precache-manifest.44d86aee78cd06f62fa9975f8337e01a.js"
 );
 
 self.addEventListener('message', (event) => {
