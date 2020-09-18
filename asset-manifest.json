@@ -1,17 +1,16 @@
 {
   "files": {
-    "main.js": "/rx23w_hmi_demo_app/static/js/main.46e640ea.chunk.js",
-    "main.js.map": "/rx23w_hmi_demo_app/static/js/main.46e640ea.chunk.js.map",
+    "main.js": "/rx23w_hmi_demo_app/static/js/main.6866e5a3.chunk.js",
+    "main.js.map": "/rx23w_hmi_demo_app/static/js/main.6866e5a3.chunk.js.map",
     "runtime-main.js": "/rx23w_hmi_demo_app/static/js/runtime-main.2263d826.js",
     "runtime-main.js.map": "/rx23w_hmi_demo_app/static/js/runtime-main.2263d826.js.map",
-    "static/js/2.10f62b43.chunk.js": "/rx23w_hmi_demo_app/static/js/2.10f62b43.chunk.js",
-    "static/js/2.10f62b43.chunk.js.map": "/rx23w_hmi_demo_app/static/js/2.10f62b43.chunk.js.map",
+    "static/js/2.1b788a9b.chunk.js": "/rx23w_hmi_demo_app/static/js/2.1b788a9b.chunk.js",
+    "static/js/2.1b788a9b.chunk.js.map": "/rx23w_hmi_demo_app/static/js/2.1b788a9b.chunk.js.map",
     "index.html": "/rx23w_hmi_demo_app/index.html",
-    "precache-manifest.44d86aee78cd06f62fa9975f8337e01a.js": "/rx23w_hmi_demo_app/precache-manifest.44d86aee78cd06f62fa9975f8337e01a.js",
+    "precache-manifest.71ca942e55e25c92bca5acebcc9a14b7.js": "/rx23w_hmi_demo_app/precache-manifest.71ca942e55e25c92bca5acebcc9a14b7.js",
     "service-worker.js": "/rx23w_hmi_demo_app/service-worker.js",
-    "static/js/2.10f62b43.chunk.js.LICENSE.txt": "/rx23w_hmi_demo_app/static/js/2.10f62b43.chunk.js.LICENSE.txt",
+    "static/js/2.1b788a9b.chunk.js.LICENSE.txt": "/rx23w_hmi_demo_app/static/js/2.1b788a9b.chunk.js.LICENSE.txt",
     "static/media/connect.png": "/rx23w_hmi_demo_app/static/media/connect.b8a4479e.png",
-    "static/media/electric_fun_low_speed.gif": "/rx23w_hmi_demo_app/static/media/electric_fun_low_speed.f9f91f1b.gif",
     "static/media/electric_fun_stop.png": "/rx23w_hmi_demo_app/static/media/electric_fun_stop.be44afbc.png",
     "static/media/electric_fun_swing.gif": "/rx23w_hmi_demo_app/static/media/electric_fun_swing.451108d2.gif",
     "static/media/indoor_environment.png": "/rx23w_hmi_demo_app/static/media/indoor_environment.3588c636.png",
@@ -21,7 +20,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.2263d826.js",
-    "static/js/2.10f62b43.chunk.js",
-    "static/js/main.46e640ea.chunk.js"
+    "static/js/2.1b788a9b.chunk.js",
+    "static/js/main.6866e5a3.chunk.js"
   ]
 }
