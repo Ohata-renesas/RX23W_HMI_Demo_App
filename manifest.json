@@ -1,6 +1,6 @@
 {
-  "short_name": "RA HMI Demo App",
-  "name": "RA4W1 HMI Demo App",
+  "short_name": "HMI Demo App",
+  "name": "RX23W HMI Demo App",
   "icons": [
     {
       "src": "logo192.png",
