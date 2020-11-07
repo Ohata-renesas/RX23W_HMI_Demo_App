@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0851deeec04129fca9916fba8029aaab",
+    "revision": "2cd877eab1b81e638947ba7b90cecb3e",
     "url": "/rx23w_hmi_demo_app/index.html"
   },
   {
-    "revision": "b3931a1e7e306a5eb49d",
-    "url": "/rx23w_hmi_demo_app/static/js/2.1b788a9b.chunk.js"
+    "revision": "711b509c6ca5cd40aa60",
+    "url": "/rx23w_hmi_demo_app/static/js/2.3e5d6b33.chunk.js"
   },
   {
     "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/rx23w_hmi_demo_app/static/js/2.1b788a9b.chunk.js.LICENSE.txt"
+    "url": "/rx23w_hmi_demo_app/static/js/2.3e5d6b33.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b4bfde7df635f50a656f",
-    "url": "/rx23w_hmi_demo_app/static/js/main.6ff8163a.chunk.js"
+    "revision": "86c19d7b63c2ab90749f",
+    "url": "/rx23w_hmi_demo_app/static/js/main.d70a8457.chunk.js"
   },
   {
     "revision": "17b4835a88e3548bd877",
@@ -24,12 +24,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rx23w_hmi_demo_app/static/media/connect.b8a4479e.png"
   },
   {
+    "revision": "4c6ce8de10f8f268bfdda40f1b714ce0",
+    "url": "/rx23w_hmi_demo_app/static/media/electric_fun_normal_speed.4c6ce8de.gif"
+  },
+  {
     "revision": "be44afbcb256e256dc0504537d64fbad",
     "url": "/rx23w_hmi_demo_app/static/media/electric_fun_stop.be44afbc.png"
   },
   {
-    "revision": "451108d270d7170c338f87e93715b713",
-    "url": "/rx23w_hmi_demo_app/static/media/electric_fun_swing.451108d2.gif"
+    "revision": "63c63f8277723e4088a92fd23ee87399",
+    "url": "/rx23w_hmi_demo_app/static/media/electric_fun_swing.63c63f82.gif"
   },
   {
     "revision": "3588c63660f9abd78fad0483f53183b6",
