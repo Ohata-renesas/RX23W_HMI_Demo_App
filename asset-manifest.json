@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/rx23w_hmi_demo_app/static/js/main.d70a8457.chunk.js",
-    "main.js.map": "/rx23w_hmi_demo_app/static/js/main.d70a8457.chunk.js.map",
+    "main.js": "/rx23w_hmi_demo_app/static/js/main.4a31f061.chunk.js",
+    "main.js.map": "/rx23w_hmi_demo_app/static/js/main.4a31f061.chunk.js.map",
     "runtime-main.js": "/rx23w_hmi_demo_app/static/js/runtime-main.2263d826.js",
     "runtime-main.js.map": "/rx23w_hmi_demo_app/static/js/runtime-main.2263d826.js.map",
-    "static/js/2.3e5d6b33.chunk.js": "/rx23w_hmi_demo_app/static/js/2.3e5d6b33.chunk.js",
-    "static/js/2.3e5d6b33.chunk.js.map": "/rx23w_hmi_demo_app/static/js/2.3e5d6b33.chunk.js.map",
+    "static/js/2.97c084a7.chunk.js": "/rx23w_hmi_demo_app/static/js/2.97c084a7.chunk.js",
+    "static/js/2.97c084a7.chunk.js.map": "/rx23w_hmi_demo_app/static/js/2.97c084a7.chunk.js.map",
     "index.html": "/rx23w_hmi_demo_app/index.html",
-    "precache-manifest.987d7de442f03f7e7c96c55c8a816c27.js": "/rx23w_hmi_demo_app/precache-manifest.987d7de442f03f7e7c96c55c8a816c27.js",
+    "precache-manifest.d2170eb2ec644ec3203526ad3bb186b2.js": "/rx23w_hmi_demo_app/precache-manifest.d2170eb2ec644ec3203526ad3bb186b2.js",
     "service-worker.js": "/rx23w_hmi_demo_app/service-worker.js",
-    "static/js/2.3e5d6b33.chunk.js.LICENSE.txt": "/rx23w_hmi_demo_app/static/js/2.3e5d6b33.chunk.js.LICENSE.txt",
+    "static/js/2.97c084a7.chunk.js.LICENSE.txt": "/rx23w_hmi_demo_app/static/js/2.97c084a7.chunk.js.LICENSE.txt",
     "static/media/connect.png": "/rx23w_hmi_demo_app/static/media/connect.b8a4479e.png",
     "static/media/electric_fun_normal_speed.gif": "/rx23w_hmi_demo_app/static/media/electric_fun_normal_speed.4c6ce8de.gif",
     "static/media/electric_fun_stop.png": "/rx23w_hmi_demo_app/static/media/electric_fun_stop.be44afbc.png",
@@ -21,7 +21,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.2263d826.js",
-    "static/js/2.3e5d6b33.chunk.js",
-    "static/js/main.d70a8457.chunk.js"
+    "static/js/2.97c084a7.chunk.js",
+    "static/js/main.4a31f061.chunk.js"
   ]
 }
